@@ -14,6 +14,11 @@ until now.
 -   Full ASCII and Latin-1 coverage.
 -   Coding-friendly distinctive characters: `li1|` `Oo0` `` `'" ``
 
+## For Best Results
+
+When using the `.ttf` fonts, specify 21pt in Windows, or 28pt in
+macOS/Linux.
+
 ## See Also
 
 See <https://github.com/dse/dse-typewriter-font/> for DSE Typewriter,
