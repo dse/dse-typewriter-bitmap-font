@@ -14,11 +14,17 @@ until now.
 -   Full ASCII and Latin-1 coverage.
 -   Coding-friendly distinctive characters: `li1|` `Oo0` `` `'" ``
 
-## Other Fonts
+## See Also
 
-See <https://github.com/dse/typewriter-font/> for DSE Typewriter, a
-similar-looking vector font I created in 2020.
+See <https://github.com/dse/dse-typewriter-font/> for DSE Typewriter,
+a similar-looking vector font I created in 2020.
 
 ## License
 
 [SIL OFL 1.1](LICENSE.md)
+
+## Preview
+
+![Regular Numerals](images/regular.png)
+
+![Old Style Numerals](images/oldstyle.png)
